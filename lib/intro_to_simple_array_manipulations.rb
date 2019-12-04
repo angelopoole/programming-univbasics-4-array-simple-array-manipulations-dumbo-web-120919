@@ -18,6 +18,6 @@ def using_shift(array)
   array.unshift
 end
 
-def using_shift(array)
-  array.unshift
-end
+# def using_unshift(array)
+#   array.unshift
+# end
